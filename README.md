@@ -34,5 +34,11 @@ Automate backups of local files to Amazon S3 on a scheduled basis.
 - Scheduled task configuration
 - Backup execution evidence
 
-## Status
-Configuration prepared. AWS deployment and scheduled backup testing pending approval.
+## Current Status
+
+- Terraform configuration prepared.
+- Terraform formatting and validation completed.
+- PowerShell backup script prepared.
+- Windows Task Scheduler daily task not yet configured.
+- AWS S3 deployment and backup upload testing pending account access and approval.
+- Live backup execution evidence pending.
